@@ -21,13 +21,11 @@ THURSDAY <br />
 
 ### Action items
 
-1. Check out the [JSP Slack channel](https://hackreactorx.slack.com/archives/C01UR456F99) right now to make sure that you have access! Please have Slack on during JSP hours, because we announce schedule updates, time-sensitive job opportunities, polls, and event/action reminders there.
+1. **Check out the [JSP Slack channel](https://hackreactorx.slack.com/archives/C01UR456F99) right now** to make sure that you have access! Please have Slack on during JSP hours, because we announce schedule updates, time-sensitive job opportunities, polls, and event/action reminders there. Can't view that channel? Make sure you accept your HRX workspace invitation (received in W12). Once you accept that invitation, make sure that you are logged into Slack using that account, and re-try the link.
 
-Can't view that channel? Make sure you accept your HRX workspace invitation (received in W12). Once you accept that invitation, make sure that you are logged into Slack using that account, and re-try the link.
+2. If you haven't already, **sign up for Thursday's Google event**! You will receive an invitation from Google, for which you must RSVP "Yes" (in the Google Calendar event. Sign up by EOD Wednesday.
 
-2. If you haven't already signed up for Thursday's Google event, do it now! You will receive an invitation from Google, for which you must RSVP "Yes" (in the Google Calendar event.
-
-3. Then, signup for one of the two Google breakout sessions, taking place later in the cycle.
+3. Then, **signup for one Google breakout session** (a smaller group Q&A with a current Google engineer), taking place later in the cycle.
 
 ---
 
