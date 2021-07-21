@@ -1,37 +1,19 @@
 ## This week in JSP
 
-You can use the [editor on GitHub](https://github.com/gSchool/job-search-program/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cycle 7, Week 2
+August 2 - 6, 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Live Events
 
-### Markdown
+Unless otherwise noted, all live events take place in the [JSP Zoom Room](https://zoom.us/my/hrjsp). Events marked with * qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Monday:
+- Tuesday:
+- Wednesday:
+- Thursday:
+- Friday:
 
-```markdown
-Syntax highlighted code block
+### Action Items
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gSchool/job-search-program/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Check out the [JSP Slack channel](https://hackreactorx.slack.com/archives/C01UR456F99) right now! We make most announcements in the Slack channel, including schedule updates, time-sensitive job opportunities, and event announcements. Can't view that channel? Make sure you accept your HRX workspace invitation (received in W12). Once you accept that invitation, make sure that you are logged into Slack using that account, and re-try the link.
+2. 
