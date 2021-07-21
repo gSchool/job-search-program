@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This week in JSP
 
 You can use the [editor on GitHub](https://github.com/gSchool/job-search-program/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
