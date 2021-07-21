@@ -9,9 +9,10 @@ Unless otherwise noted, all live events take place in the [JSP Zoom Room](https:
 
 *IMPORTANT*: Check the :calendar: [JSP CALENDAR](http://mks.io/jspcalendar) every day. The calendar contains a current and accurate day and event schedule, and the events listed below are subject to change. JSP calendar blocks also contain relevent docs, links, location, and information. It is your single source of truth!
 
-- MONDAY <br />
-**Selling Your Tech Skills/Sales 101** :star: : Join Crew Spence's interactive session on how to demonstrate your value to an employer. Bring your questions about the topic or your job search in general for Crew’s invaluable Q&A.
-- THURSDAY <br />
+MONDAY <br />
+**Selling Your Tech Skills/Sales 101** :star: : Join Crew Spence's interactive session on how to demonstrate your value to an employer. Bring your questions about the topic or your job search in general for Crew’s invaluable Q&A.  <br /> <br />
+
+THURSDAY <br />
 **Google Live: Preparing for the Technical Interview** You must sign up and RSVP "Yes" for this JSP-only event (see _Action items_ below). Adri Santamaria from Google will send you a calendar invitation, which contains the Google Meet address for this "offsite" event.
 
 ### Action items
