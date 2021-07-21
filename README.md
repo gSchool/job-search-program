@@ -20,5 +20,9 @@ Unless otherwise noted, all live events take place in the [JSP Zoom Room](https:
 
 Can't view that channel? Make sure you accept your HRX workspace invitation (received in W12). Once you accept that invitation, make sure that you are logged into Slack using that account, and re-try the link.
 
+2. If you haven't already signed up for Thursday's Google event, do it now! You will receive an invitation from Google, for which you must RSVP "Yes" (in the Google Calendar event.
+
+3. Then, signup for one of the two Google breakout sessions, taking place later in the cycle.
+
 ### Upcoming opportunities
 
