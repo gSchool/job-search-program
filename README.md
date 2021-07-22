@@ -1,6 +1,6 @@
-# This week in JSP
+# Job Search Program This Week
 
-Cycle 7, Week 2
+Cycle 7, Week 2 <br />
 August 2 - 6, 2021
 
 ---
