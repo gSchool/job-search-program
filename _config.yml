@@ -1,5 +1,5 @@
 theme: 
   jekyll-theme-leap-day
 
-kramdown:
-  input: GFM
+plugins:
+  - jemoji
