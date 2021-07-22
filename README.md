@@ -10,14 +10,17 @@ August 2 - 6, 2021
 *Don't want to miss a live event? Copy it from the [JSP calendar](http://mks.io/jspcalendar) to your own Google calendar, and set notification options as desired.*
 
 MONDAY <br />
-...**Selling Your Tech Skills/Sales 101** :star: : Join Crew's interactive session on how to demonstrate your value to an employer. Bring your questions about the topic or your job search in general for Crew’s invaluable Q&A.
+...**Selling Your Tech Skills/Sales 101** :star: ... Join Crew's interactive session on how to demonstrate your value to an employer. Bring your questions about the topic or your job search in general for Crew’s invaluable Q&A.
+<br /><br />
+WEDNESDAY <br>
+...**System Design: Clarifying questions** :star: ... Lecture and demo with Christine. Learn more about the importance of asking the right clarifying questions in a system design interview, and get a chance to demo this crucial step with a mock system design question. Prep with [JSP System Design Crash Course](https://docs.google.com/document/d/1zaWjm1QDZawoKZS7KItezTrmtQJ8kmLeydT0OPjNKt4/edit?usp=sharing).
 <br /><br />
 THURSDAY <br />
-...**Google Live: Preparing for the Technical Interview** You must sign up and RSVP "Yes" for this JSP-only event (see _Action items_ below). Adri Santamaria from Google will send you a calendar invitation, which contains the Google Meet address for this "offsite" event.
+...**Google Live: Preparing for the Technical Interview** ... Get insight into the Google hiring process directly from their in-house recruiter and current engineers! You must sign up and RSVP "Yes" for this JSP-only event (see _Action items_ below). Adri Santamaria from Google will send you a calendar invitation, which contains the Google Meet address for this "offsite" event.
 
-> Check the :calendar: **[JSP calendar](http://mks.io/jspcalendar)** every day. The calendar contains a current and accurate day and event schedule, and the events listed here are subject to change. JSP calendar blocks also contain relevant docs, links, and information. It is your single source of truth!
-> Unless otherwise noted, all live events take place in the [JSP Zoom Room](https://zoom.us/my/hrjsp). 
-> Events marked with :star: qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
+> • Check the :calendar: **[JSP calendar](http://mks.io/jspcalendar)** every day. The calendar contains a current and accurate day and event schedule, and the events listed here are subject to change. JSP calendar blocks also contain relevant docs, links, and information. It is your single source of truth!
+> • Unless otherwise noted, all live events take place in the [JSP Zoom Room](https://zoom.us/my/hrjsp). 
+> • Events marked with :star: qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
 
 ---
 
