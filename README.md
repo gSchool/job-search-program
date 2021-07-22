@@ -7,6 +7,8 @@ August 2 - 6, 2021
 
 ### Live events
 
+*Don't want to miss a live event? Copy it from the JSP calendar to your own Google calendar, and set notification options as desired.*
+
 MONDAY <br />
 **Selling Your Tech Skills/Sales 101** :star: : Join Crew Spence's interactive session on how to demonstrate your value to an employer. Bring your questions about the topic or your job search in general for Crew’s invaluable Q&A.
 
