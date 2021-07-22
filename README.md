@@ -17,7 +17,7 @@ THURSDAY <br />
 
 > Check the :calendar: **[JSP calendar](http://mks.io/jspcalendar)** every day. The calendar contains a current and accurate day and event schedule, and the events listed here are subject to change. JSP calendar blocks also contain relevant docs, links, and information. It is your single source of truth!
 >
->Unless otherwise noted, all live events take place in the [JSP Zoom Room](https://zoom.us/my/hrjsp). Events marked with :star: qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
+> Unless otherwise noted, all live events take place in the [JSP Zoom Room](https://zoom.us/my/hrjsp). Events marked with :star: qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
 ---
 
 ### Action items
