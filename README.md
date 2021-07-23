@@ -6,22 +6,17 @@ August 2 - 6, 2021
 ---
 
 ### Live events
+See :calendar: [JSP calendar](http://mks.io/jspcalendar) for details.
 
-*Don't want to miss a live event? Copy it from the [JSP calendar](http://mks.io/jspcalendar) to your own Google calendar, and set notification options as desired.*
+|M|Tu|W|Th|F|
+|:---|:---|:---|:---|:------|
+|**Selling Your Tech Skills/Q&A** :star: <br /> Join Crew's interactive JSP-only Power Hour session. | - | **System Design: Clarifying questions** :star: <br /> Lecture and interactive demo with Christine. | **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. | - |
 
-MONDAY <br />
-**🔥 Selling Your Tech Skills/Sales 101** :star: ... Join Crew's interactive JSP-only Power Hour session on how to demonstrate your value to an employer. Bring your questions about the topic or your job search in general for Crew’s invaluable Q&A.
-<br /><br />
-WEDNESDAY <br/>
-**🗣️ System Design: Clarifying questions** :star: ... Lecture and demo with Christine. Learn more about the importance of asking the right clarifying questions in a system design interview, and get a chance to demo this crucial step with a mock system design question. Prep with [JSP System Design Crash Course](https://docs.google.com/document/d/1zaWjm1QDZawoKZS7KItezTrmtQJ8kmLeydT0OPjNKt4/edit?usp=sharing).
-<br /><br />
-THURSDAY <br />
-**Ⓖ Google Kickoff: Preparing for the Technical Interview** ... Get insight into the Google hiring process directly from their in-house recruiter and current engineers! You must sign up and RSVP "Yes" for this JSP-only event (see _Action items_ below). Adri Santamaria from Google will send you a calendar invitation, which contains the Google Meet address for this "offsite" event.
-
----
-> • Check the :calendar: [JSP calendar](http://mks.io/jspcalendar) daily; it contains the most current and accurate schedule. Events listed here are subject to change. JSP calendar blocks contain relevant docs, links, and additional information. It is your single source of truth for the JSP schedule!
-> • Unless otherwise noted, all live events take place in the :movie_camera: [JSP Zoom Room](https://zoom.us/my/hrjsp). 
-> • Events marked with :star: qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
+ * Events listed here are subject to change. JSP calendar blocks contain relevant docs, links, and additional information. It is your single source of truth for the JSP schedule! <br />
+ * Unless otherwise noted, all live events take place in the :movie_camera: [JSP Zoom Room](https://zoom.us/my/hrjsp). <br />
+ * Events marked with :star: qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
+ * Don't want to miss a live event? Copy it from the [JSP calendar](http://mks.io/jspcalendar) to your own Google calendar, and set notification options as desired.
+ 
 ---
 
 ### Action items
@@ -34,5 +29,15 @@ THURSDAY <br />
 
 ---
 
-### Upcoming opportunities
+### Breakouts
+
+This week's breakout rooms are available for self-selection during the week immediately following our brief daily kickoff. If you choose an Accountability breakout, please meet with your group for short morning standups all week.
+
+ * Accountability
+ * DS&A: [Arrays](https://docs.google.com/document/d/1jinTbt4nf2Li3aHfMJ-2rjzQQN6hUcUK30Ql2zC8gqM/edit) & [Linked Lists](https://docs.google.com/document/d/1Ug7UGVfCHTsLcJ1W_sENzCHeCnccT8AxbvlHmGcC7Lw/edit)
+ * [Outreach & apps](https://docs.google.com/document/d/1XpcadSdGG5gDZW00wrKBhg8XDeW98edHeMBW5wyy2RU/edit?usp=sharing)
+
+---
+
+
 
