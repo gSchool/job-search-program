@@ -6,11 +6,14 @@ August 2 - 6, 2021
 ---
 
 ### Live events
-See :calendar: [JSP calendar](http://mks.io/jspcalendar) for details.
 
-|Mon|Tue|Wed|Thu|Fri|
-|:--|:--|:--|:--|:--|
-|:star: **Selling Your Tech Skills/Q&A** <br /> Join Crew's interactive JSP-only Power Hour session. | - | :star: **System Design: Clarifying questions** <br /> Lecture and interactive demo with Christine. | **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. | - |
+|Day|Event|
+|:--|:--|
+| Monday |:star: **Selling Your Tech Skills/Q&A** <br /> Join Crew's interactive JSP-only Power Hour session. |
+| Wednesday | :star: **System Design: Clarifying questions** <br /> Lecture and interactive demo with Christine. |
+| Friday | **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. |
+
+See :calendar: [JSP calendar](http://mks.io/jspcalendar) for details.
 
  * Events listed here are subject to change. JSP calendar blocks contain relevant docs, links, and additional information. It is your single source of truth for the JSP schedule! <br />
  * Unless otherwise noted, all live events take place in the :movie_camera: [JSP Zoom Room](https://zoom.us/my/hrjsp). <br />
@@ -45,7 +48,7 @@ This week's breakout rooms are available for self-selection during the week imme
 
 > See a problem with your total?
 
-> 1. Click `GET YOUR FULL RECORD BY EMAIL` at the top of the Leaderboard.
+> 1. Click *GET YOUR FULL RECORD BY EMAIL* at the top of the Leaderboard.
 > 2. Select your name from the dropdown list and submit the form.
 > 3. You will receive your student record for last week by the email address we have on record for you.
 > 4. If you notice an issue (*For example: You tracked 25 applications in Huntr last week, but have 0 Applications points.*), follow the instructions in the email to report it to JSP staff.
