@@ -1,4 +1,4 @@
-remote_theme: benbalter/retlab
+remote_theme: andrewbanchich/hyperspace-jekyll-theme
 
 plugins:
   - jemoji
