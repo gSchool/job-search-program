@@ -8,9 +8,9 @@ August 2 - 6, 2021
 ### Live events
 See :calendar: [JSP calendar](http://mks.io/jspcalendar) for details.
 
-|M|Tu|W|Th|F|
-|:---|:---|:---|:---|:------|
-|**Selling Your Tech Skills/Q&A** :star: <br /> Join Crew's interactive JSP-only Power Hour session. | - | **System Design: Clarifying questions** :star: <br /> Lecture and interactive demo with Christine. | **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. | - |
+|Mon|Tue|Wed|Thu|Fri|
+|:--|:--|:--|:--|:--|
+|:star: **Selling Your Tech Skills/Q&A** <br /> Join Crew's interactive JSP-only Power Hour session. | - | :star: **System Design: Clarifying questions** <br /> Lecture and interactive demo with Christine. | **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. | - |
 
  * Events listed here are subject to change. JSP calendar blocks contain relevant docs, links, and additional information. It is your single source of truth for the JSP schedule! <br />
  * Unless otherwise noted, all live events take place in the :movie_camera: [JSP Zoom Room](https://zoom.us/my/hrjsp). <br />
