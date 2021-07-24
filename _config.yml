@@ -1,4 +1,6 @@
-theme: jekyll-theme-leap-day
+remote_theme: benbalter/retlab
 
 plugins:
   - jemoji
+  - jekyll-remote-theme
+  
