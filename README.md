@@ -5,7 +5,7 @@ August 2 - 6, 2021
 
 ---
 
-### Live events
+### Live events 📆
 
 |Day|Event|
 |:--|:--|
@@ -13,7 +13,7 @@ August 2 - 6, 2021
 | Wednesday | **System Design: Clarifying questions** * <br /> Lecture and interactive demo with Christine. |
 | Friday | **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. |
 
-See :calendar: [JSP calendar](http://mks.io/jspcalendar) for details.
+See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
  * Events listed here are subject to change. JSP calendar blocks contain meeting links, related docs, and additional information. It is your single source of truth for the JSP schedule! <br />
  * Events marked with *  qualify as Participation modules, and will earn you 3 points each (no limit/week) for joining.
@@ -22,7 +22,7 @@ See :calendar: [JSP calendar](http://mks.io/jspcalendar) for details.
 ---
 
 
-### Action items
+### Action items ☑️ 
 
 
 1. **Check out the [JSP Slack channel](https://hackreactorx.slack.com/archives/C01UR456F99) right now** to make sure that you have access! Please have Slack on during JSP hours, because we announce schedule updates, time-sensitive job opportunities, polls, and event/action reminders there. Can't view that channel? Make sure you accept your HRX workspace invitation (received in W12). Once you accept that invitation, make sure that you are logged into Slack using that account, and re-try the link.
@@ -34,7 +34,7 @@ See :calendar: [JSP calendar](http://mks.io/jspcalendar) for details.
 ---
 
 
-### Breakouts
+### Breakouts 🤝
 
 
 This week's breakout rooms are available for self-selection during the week immediately following our brief daily kickoff. If you choose an Accountability breakout, please meet with your group for short morning standups all week.
@@ -46,7 +46,7 @@ This week's breakout rooms are available for self-selection during the week imme
 ---
 
 
-### Points
+### Points ⛹️‍♀️
 
 
 Check out [last week's point Leaderboard!](https://docs.google.com/spreadsheets/d/1tqAT01p5O6Nfj0tDQguP_wyVy6qu559ghGhoBo2M0KA/edit#gid=0) Points for the previous week are published on Monday.
