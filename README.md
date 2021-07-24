@@ -49,12 +49,14 @@ This week's breakout rooms are available for self-selection during the week imme
 ### Points
 
 
-[Last week's Leaderboard!](https://docs.google.com/spreadsheets/d/1tqAT01p5O6Nfj0tDQguP_wyVy6qu559ghGhoBo2M0KA/edit#gid=0)
+Check out [last week's point Leaderboard!](https://docs.google.com/spreadsheets/d/1tqAT01p5O6Nfj0tDQguP_wyVy6qu559ghGhoBo2M0KA/edit#gid=0) Points for the previous week are published on Monday.
 
-> See a problem with your total?
+```
+See a problem with your total?
 
-> 1. Click *GET YOUR FULL RECORD BY EMAIL* at the top of the Leaderboard.
-> 2. Select your name from the dropdown list and submit the form.
-> 3. You will receive your student record for last week by the email address we have on record for you.
-> 4. If you notice an issue (*For example: You tracked 25 applications in Huntr last week, but have 0 Applications points.*), follow the instructions in the email to report it to JSP staff.
+ 1. Click GET YOUR FULL RECORD BY EMAIL at the top of the Leaderboard.
+ 2. Select your name from the dropdown list and submit the form.
+ 3. You will receive your student record for last week by the email address we have on record for you.
+ 4. If you notice an issue (*For example: You tracked 25 applications in Huntr last week, but have 0 Applications points.*), follow the instructions in the email to report it to JSP staff.
+```
 
