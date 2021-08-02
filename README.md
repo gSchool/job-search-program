@@ -10,8 +10,9 @@ August 2 - 6, 2021
 |Day|Event|
 |:--|:--|
 | Monday |**Selling Your Tech Skills/Q&A** * <br /> Join Crew's interactive JSP-only Power Hour session. |
-| Wednesday | **System Design: Clarifying questions** * <br /> Lecture and interactive demo with Christine. |
-| Friday | **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. |
+| Tuesday| **Envisioning Success in Your Job Search** * <br /> Angie leads an exercise to ID your ideal job and the personal traits you should focus on to land it.
+| Wednesday | **System Design: Clarifying questions** * <br /> Lecture and interactive demo with Christine. <br /><br /> **Applications & Outreach Clarifying Session** * with Angie |
+| Thursday | **Intro to Talent Solutions** <br /> Join Murwa to learn how Talent Solutions can help you in JSP. <br /><br /> **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. |
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
@@ -48,15 +49,4 @@ This week's breakout rooms are available for self-selection during the week imme
 
 ### Points ⛹️‍♀️
 
-
-Check out [last week's point Leaderboard!](https://docs.google.com/spreadsheets/d/1tqAT01p5O6Nfj0tDQguP_wyVy6qu559ghGhoBo2M0KA/edit#gid=0) Points for the previous week are published on Monday.
-
-```
-See a problem with your total?
-
- 1. Click GET YOUR FULL RECORD BY EMAIL at the top of the Leaderboard.
- 2. Select your name from the dropdown list and submit the form.
- 3. You will receive your student record for last week by the email address we have on record for you.
- 4. If you notice an issue (*For example: You tracked 25 applications in Huntr last week, but have 0 Applications points.*), follow the instructions in the email to report it to JSP staff.
-```
-
+No leaderboard this week; previous week's points are available the following Monday. Stay tuned for the W2 point leaderboard next week!
