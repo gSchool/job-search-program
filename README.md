@@ -12,7 +12,7 @@ August 9 - 13, 2021
 | Monday |**Powerful Motivation/Q&A** * <br /> Join Crew's interactive JSP-only Power Hour session. |
 | Wednesday | **Applications Party** <br /> Our first party of the cycle! Have some competetive fun while superpowering your job pipeline. |
 | Thursday | **Personal Narratives Clarifying Session** * <br /> Join Angie for a valuable Q&A to get your personal narratives ready for interivews. <br /><br /> **Sort Algorithms Session** <br /> Lecture/practice prompts to work through solo or in groups. |
-| Friday | **Personal Narratives Feedback Session** * <br /> Get feedback on Thursday's peronsal narrative work. <br /><br />  **Intro to Talent Solutions** *<br /> Join Murwa to learn how Talent Solutions can help you in JSP. |
+| Friday | **Personal Narratives Feedback Session** * <br /> Get feedback on Thursday's personal narrative work. <br /><br />  **Intro to Talent Solutions** * <br /> Join Murwa to learn how Talent Solutions can help you in JSP. |
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
