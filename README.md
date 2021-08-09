@@ -1,7 +1,7 @@
 # Job Search Program This Week
 
-Cycle 7, Week 2 <br />
-August 2 - 6, 2021
+Cycle 7, Week 3 <br />
+August 9 - 13, 2021
 
 ---
 
@@ -9,10 +9,10 @@ August 2 - 6, 2021
 
 |Day|Event|
 |:--|:--|
-| Monday |**Selling Your Tech Skills/Q&A** * <br /> Join Crew's interactive JSP-only Power Hour session. |
-| Tuesday| **Envisioning Success in Your Job Search** * <br /> Angie leads an exercise to ID your ideal job and the personal traits you should focus on to land it.
-| Wednesday | **System Design: Clarifying questions** * <br /> Lecture and interactive demo with Christine. <br /><br /> **Applications & Outreach Clarifying Session** * with Angie |
-| Thursday | **Intro to Talent Solutions** <br /> Join Murwa to learn how Talent Solutions can help you in JSP. <br /><br /> **Google Kickoff** <br /> Get insight into the Google hiring process directly from their in-house team. |
+| Monday |**Powerful Motivation/Q&A** * <br /> Join Crew's interactive JSP-only Power Hour session. |
+| Wednesday | **Applications Party** <br /> Our first party of the cycle! Have some competetive fun while superpowering your job pipelilne. |
+| Thursday | **Personal Narratives Clarifying Session** * <br /> Join Angie for a valuable Q&A to get your personal narratives ready for interivews. <br /><br /> **Sort Algorithms Session** <br /> Lecture/practice prompts to work through solo or in groups. |
+| Friday | **Personal Narratives Feedback Session** * <br /> Get feedback on Thursday's peronsal narrative work. <br /><br />  **Intro to Talent Solutions** *<br /> Join Murwa to learn how Talent Solutions can help you in JSP. |
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
@@ -26,11 +26,7 @@ See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 ### Action items ☑️ 
 
 
-1. **Check out the [JSP Slack channel](https://hackreactorx.slack.com/archives/C01UR456F99) right now** to make sure that you have access! Please have Slack on during JSP hours, because we announce schedule updates, time-sensitive job opportunities, polls, and event/action reminders there. Can't view that channel? Make sure you accept your HRX workspace invitation (received in W12). Once you accept that invitation, make sure that you are logged into Slack using that account, and re-try the link.
-
-2. If you haven't already, **sign up for Thursday's Google event**! You will receive an invitation from Google, for which you must RSVP "Yes" (in the Google Calendar event. Sign up by EOD Wednesday.
-
-3. Then, **signup for one Google breakout session** (a smaller group Q&A with a current Google engineer), taking place later in the cycle.
+1. **[Signup for a Google breakout session](https://docs.google.com/forms/d/e/1FAIpQLSceyOGWZDfRc6fjLLdRc_dsVyK4JGPHiYnH5aW3Ar2VlBYVTw/viewform)** (a small group Q&A with a current Google engineer). Choose August 19 or September 2.
 
 ---
 
@@ -41,12 +37,12 @@ See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 This week's breakout rooms are available for self-selection during the week immediately following our brief daily kickoff. If you choose an Accountability breakout, please meet with your group for short morning standups all week.
 
  * Accountability
- * DS&A: [Arrays](https://docs.google.com/document/d/1jinTbt4nf2Li3aHfMJ-2rjzQQN6hUcUK30Ql2zC8gqM/edit)/[Linked Lists](https://docs.google.com/document/d/1Ug7UGVfCHTsLcJ1W_sENzCHeCnccT8AxbvlHmGcC7Lw/edit)
- * [Outreach & apps](https://docs.google.com/document/d/1XpcadSdGG5gDZW00wrKBhg8XDeW98edHeMBW5wyy2RU/edit?usp=sharing)
+ * DS&A: [Binary Tree,BST,Heapsort](https://docs.google.com/document/d/1AWq6mk8h2PqXxZXw4IiajK875RKL4kpPSSNpc2QirRY/edit?usp=sharing)
+ * [Networking and Coffee Chats](https://drive.google.com/drive/folders/14Dy_e_A2tsu6uDw3JLMDV9BBPc7Gdon1?usp=sharing)
 
 ---
 
 
 ### Points ⛹️‍♀️
 
-No leaderboard this week; previous week's points are available the following Monday. Stay tuned for the W2 point leaderboard next week!
+W2 point leaderboard will be posted on Tuesday.
