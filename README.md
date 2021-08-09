@@ -27,6 +27,7 @@ See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
 
 1. **[Signup for a Google breakout session](https://docs.google.com/forms/d/e/1FAIpQLSceyOGWZDfRc6fjLLdRc_dsVyK4JGPHiYnH5aW3Ar2VlBYVTw/viewform)** (a small group Q&A with a current Google engineer). Choose August 19 or September 2.
+2. Did you attend last week's main Google session? Fill out [this brief form](https://forms.gle/1ZL3XjdZJRtwaoLXA) by EOD Wednesday so that you land on Google's engineering radar!
 
 ---
 
