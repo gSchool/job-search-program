@@ -1,7 +1,7 @@
 # Job Search Program This Week
 
-Cycle 7, Week 3 <br />
-August 9 - 13, 2021
+Cycle 7, Week 4 <br />
+August 16 - 20, 2021
 
 ---
 
@@ -9,10 +9,10 @@ August 9 - 13, 2021
 
 |Day|Event|
 |:--|:--|
-| Monday |**Powerful Motivation/Q&A** * <br /> Join Crew's interactive JSP-only Power Hour session. |
-| Wednesday | **Applications Party** <br /> Our first party of the cycle! Have some competetive fun while superpowering your job pipeline. |
-| Thursday | **Personal Narratives Clarifying Session** * <br /> Join Angie for a valuable Q&A to get your personal narratives ready for interivews. <br /><br /> **Networking Like a Pro w/ Andrea Macek** <br /> [Signup for this free event here!](https://www.eventbrite.com/e/how-to-overcome-your-fears-and-network-like-a-pro-tickets-159480154435) <br /><br /> _Sort Algorithms Session has been moved to next week_ |
-| Friday | **Personal Narratives Feedback Session** * <br /> Get feedback on Thursday's personal narrative work. <br /><br />  **Intro to Talent Solutions** * <br /> Join Murwa to learn how Talent Solutions can help you in JSP. |
+| Monday |**Overcoming Limiting Beliefs/Q&A** <br /> Join Crew's interactive JSP-only Power Hour session. |
+| Tuesday | **Sort Algorithms Session** <br /> Lecture/practice prompts to work through solo or in groups. |
+| Wednesday | **Applications Party** <br /> Have some competetive fun while superpowering your job pipeline. |
+| Thursday | **Google Breakout Session #1** <br /> The first of two smaller sessions with Google engineers. If you signed up for this session last week, be sure to RSVP to the invitation you received from Google!|
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
@@ -27,7 +27,7 @@ See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
 
 1. **[Signup for a Google breakout session](https://docs.google.com/forms/d/e/1FAIpQLSceyOGWZDfRc6fjLLdRc_dsVyK4JGPHiYnH5aW3Ar2VlBYVTw/viewform)** (a small group Q&A with a current Google engineer). Choose August 19 or September 2.
-2. Did you attend last week's main Google session? Fill out [this brief form](https://forms.gle/1ZL3XjdZJRtwaoLXA) by EOD Wednesday so that you land on Google's engineering radar!
+2. Make sure to RSVP on the Google breakout invitation so that they can staff the event with an appropriate number of Google engineers for the small sessions.
 
 ---
 
@@ -38,12 +38,7 @@ See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 This week's breakout rooms are available for self-selection during the week immediately following our brief daily kickoff. If you choose an Accountability breakout, please meet with your group for short morning standups all week.
 
  * Accountability
- * DS&A: [Binary Tree,BST,Heapsort](https://docs.google.com/document/d/1AWq6mk8h2PqXxZXw4IiajK875RKL4kpPSSNpc2QirRY/edit?usp=sharing)
- * [Networking and Coffee Chats](https://drive.google.com/drive/folders/14Dy_e_A2tsu6uDw3JLMDV9BBPc7Gdon1?usp=sharing)
+ * DS&A: [Sort Algos](https://docs.google.com/document/d/1SKBhRjv0LhjKvUg33K-3bEloPy7n-GH_ibQz5DU8TFk/)
+ * [S.T.A.R.T. Stories](https://drive.google.com/drive/folders/1cHvNMHCOa2X3BDKADTvktcir-Bt757e3?usp=sharing)
 
 ---
-
-
-### Points ⛹️‍♀️
-
-W2 point leaderboard will be posted on Tuesday.
