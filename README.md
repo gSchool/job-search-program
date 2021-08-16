@@ -12,7 +12,7 @@ August 16 - 20, 2021
 | Monday |**Overcoming Limiting Beliefs/Q&A** <br /> Join Crew's interactive JSP-only Power Hour session. |
 | Tuesday | **Sort Algorithms Session** <br /> Lecture/practice prompts to work through solo or in groups. |
 | Wednesday | **Applications Party** <br /> Have some competetive fun while superpowering your job pipeline. |
-| Thursday | **Google Breakout Session #1** <br /> The first of two smaller sessions with Google engineers. If you signed up for this session last week, be sure to RSVP to the invitation you received from Google!|
+| Thursday | **Google Breakout Session #1** <br /> Smaller session with Google engineers. If you signed up for this session last week, be sure to RSVP to the invitation you received from Google!|
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 
@@ -26,8 +26,7 @@ See **[JSP calendar](http://mks.io/jspcalendar)** for details.
 ### Action items ☑️ 
 
 
-1. **[Signup for a Google breakout session](https://docs.google.com/forms/d/e/1FAIpQLSceyOGWZDfRc6fjLLdRc_dsVyK4JGPHiYnH5aW3Ar2VlBYVTw/viewform)** (a small group Q&A with a current Google engineer). Choose August 19 or September 2.
-2. Make sure to RSVP on the Google breakout invitation so that they can staff the event with an appropriate number of Google engineers for the small sessions.
+1. Make sure to RSVP on the Google breakout invitation so that they can staff the event with an appropriate number of Google engineers for the small sessions.
 
 ---
 
