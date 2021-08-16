@@ -11,7 +11,7 @@ August 16 - 20, 2021
 |:--|:--|
 | Monday |**Overcoming Limiting Beliefs/Q&A** <br /> Join Crew's interactive JSP-only Power Hour session. |
 | Tuesday | **Sort Algorithms Session** <br /> Lecture/practice prompts to work through solo or in groups. |
-| Wednesday | **Applications Party** <br /> Have some competetive fun while superpowering your job pipeline. |
+| Wednesday | **Applications Party** <br /> Have some competitive fun while superpowering your job pipeline. |
 | Thursday | **Google Breakout Session #1** <br /> Smaller session with Google engineers. If you signed up for this session last week, be sure to RSVP to the invitation you received from Google!|
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
