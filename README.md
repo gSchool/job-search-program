@@ -10,7 +10,7 @@ Final week of JSP!
 
 |Day|Event|
 |:--|:--|
-| Wednesday & Thursday | **Mock Interviews** <br /> Join Angie for INVALUABLE mock interviews. Debug your interview before your next real opportunity. |
+| Wednesday & Thursday | **Mock Interviews** <br /> Debug your interview presence before your next real opportunity. Join Angie for JSP's final, invaluable mock interview opportunities! |
 
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
