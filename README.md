@@ -1,7 +1,8 @@
 # Job Search Program This Week
 
-Cycle 7, Week 6 <br />
-August 30 - September 3, 2021
+Cycle 7, Week 7 <br />
+September 7 - 10, 2021
+Final week of JSP!
 
 ---
 
@@ -9,10 +10,7 @@ August 30 - September 3, 2021
 
 |Day|Event|
 |:--|:--|
-| Monday |**Speak Like a Professional/Q&A** <br /> Join Crew's interactive JSP-only Power Hour session. |
-| Tuesday | **Interview Prep Like a Pro** <br /> Join Angie for two valuable interview prep sessions |
-| Wednesday | **Applications Party** <br /> Have some competitive fun while superpowering your job pipeline. |
-| Thursday |**Google Breakout Sessions** <br /> Small-group breakouts with Google engineers.  |
+| Wednesday & Thursday | **Mock Interviews** <br /> Debug your interview presence before your next real opportunity. Join Angie for JSP's final, invaluable mock interview opportunities! |
 
 
 See **[JSP calendar](http://mks.io/jspcalendar)** for details.
@@ -36,7 +34,7 @@ None
 This week's breakout rooms are available for self-selection during the week immediately following our brief daily kickoff. If you choose an Accountability breakout, please meet with your group for short morning standups all week.
 
  * Accountability
- * DS&A: [Sort Algos](https://docs.google.com/document/d/1SKBhRjv0LhjKvUg33K-3bEloPy7n-GH_ibQz5DU8TFk/edit)
+ * DS&A: [System Design](https://docs.google.com/document/d/1zaWjm1QDZawoKZS7KItezTrmtQJ8kmLeydT0OPjNKt4/edit#heading=h.zh05gba1vy)
  * [Interview Prep](https://drive.google.com/drive/folders/1v7DX0e8oeZh6kQEJy6TQ9tjE88OG89Hj?usp=sharing)
 
 ---
